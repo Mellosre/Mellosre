@@ -1,16 +1,36 @@
-## Hi there 👋
+# Olá, eu sou o Renato Mello! 👋
 
-<!--
-**Mellosre/Mellosre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  Sou um estudante de Análise e Desenvolvimento de Sistemas apaixonado por transformar desafios em soluções através do código. Atualmente, estou focado em me tornar um Desenvolvedor Full-Stack, aprofundando meus conhecimentos no ecossistema JavaScript.
+</p>
 
-Here are some ideas to get you started:
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na Universidade Cruzeiro do Sul.
+- 🌱 Atualmente aprendendo e aprimorando minhas habilidades em **React, Node.js e TypeScript**.
+- 💼 Buscando minha primeira oportunidade como Desenvolvedor Júnior ou Estagiário.
+- 📫 Como me encontrar: **[LinkedIn](www.linkedin.com/in/renato-mello-dev)** | **rmello007@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Tecnologias e Ferramentas
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,express,html,css,mysql,git,vscode,figma&perline=5" />
+  </a>
+</p>
+
+---
+
+### 🚀 Meus Principais Projetos
+
+* **Em breve, meus projetos de destaque estarão aqui!** Fique de olho.
+
+*(Dica: Após criar seu primeiro projeto, edite este README para colocar o link dele aqui!)*
+
+---
+
+<div align="center">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mellosre&show_icons=true&theme=dracula)
+
+</div>
