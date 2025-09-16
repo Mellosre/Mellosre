@@ -25,7 +25,7 @@
 
 * **Em breve, meus projetos de destaque estarão aqui!** Fique de olho.
 
-*(Dica: Após criar seu primeiro projeto, edite este README para colocar o link dele aqui!)*
+*[(Readme)](https://github.com/Mellosre/Mellosre/blob/main/README.md)*
 
 ---
 
